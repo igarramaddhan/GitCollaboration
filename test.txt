@@ -1,0 +1,2 @@
+Ini file test.txt
+tambah line baru
