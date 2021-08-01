@@ -1,2 +1,3 @@
-Ini file test.txt
-tambah line baru
+// this file is used for test purpose only
+this is test.txt
+new line
